@@ -1,0 +1,1 @@
+"D:\Games\Epic Games\UE_4.25\Engine\Binaries\Win64\UE4Editor.exe" "E:\UE4 PROJECT\TestSessionNull\TestSessionNull.uproject" -game -ResX=800 ResY=900 -WinX=0 -WinY=20 -log -nosteam -windowed

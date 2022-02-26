@@ -1,0 +1,1541 @@
+﻿Log file open, 02/11/22 20:52:48
+LogInit: Display: Running engine for game: TestSessionNull
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200358
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz, GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+[2022.02.11-13.52.49:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.11-13.52.49:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+[2022.02.11-13.52.49:035][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+[2022.02.11-13.52.49:037][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.11-13.52.49:037][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.11-13.52.49:038][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.02.11-13.52.49:039][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.11-13.52.49:039][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.11-13.52.49:039][  0]LogHAL: Display: Platform has ~ 8 GB [8534241280 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.11-13.52.49:039][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.11-13.52.49:039][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.11-13.52.49:039][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.8]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[grass.DensityScale:0.8]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Scalability.ini]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.11-13.52.49:040][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UE4 PROJECT/TestSessionNull/Saved/Config/Windows/Engine.ini]
+[2022.02.11-13.52.49:040][  0]LogInit: Computer: ANDYLESMANDO
+[2022.02.11-13.52.49:040][  0]LogInit: User: AndyGaol
+[2022.02.11-13.52.49:040][  0]LogInit: CPU Page size=4096, Cores=2
+[2022.02.11-13.52.49:040][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.11-13.52.49:041][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.02.11-13.52.49:041][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.11-13.52.49:041][  0]LogMemory: Process Physical Memory: 114.33 MB used, 114.33 MB peak
+[2022.02.11-13.52.49:041][  0]LogMemory: Process Virtual Memory: 95.87 MB used, 95.87 MB peak
+[2022.02.11-13.52.49:041][  0]LogMemory: Physical Memory: 3895.83 MB used,  4243.05 MB free, 8138.89 MB total
+[2022.02.11-13.52.49:041][  0]LogMemory: Virtual Memory: 5128.09 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2022.02.11-13.52.49:047][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.11-13.52.49:095][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.11-13.52.49:096][  0]LogInit: Using OS detected language (en-US).
+[2022.02.11-13.52.49:096][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.11-13.52.49:098][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.11-13.52.49:316][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.11-13.52.49:356][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.11-13.52.49:356][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.11-13.52.49:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.11-13.52.49:518][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.11-13.52.49:518][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.11-13.52.49:518][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.11-13.52.49:629][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2022.02.11-13.52.49:629][  0]LogD3D11RHI:       2007/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.11-13.52.49:632][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.11-13.52.49:632][  0]LogD3D11RHI:       0/0/4069 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.11-13.52.49:632][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.11-13.52.49:637][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.11-13.52.49:637][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2022.02.11-13.52.49:637][  0]LogWindows: EnumDisplayDevices:
+[2022.02.11-13.52.49:637][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2022.02.11-13.52.49:637][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2022.02.11-13.52.49:637][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2022.02.11-13.52.49:638][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2022.02.11-13.52.49:638][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2022.02.11-13.52.49:638][  0]LogD3D11RHI:   Driver Version: 472.98 (internal:30.0.14.7298, unified:472.98)
+[2022.02.11-13.52.49:638][  0]LogD3D11RHI:      Driver Date: 1-5-2022
+[2022.02.11-13.52.49:638][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2022.02.11-13.52.49:714][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.02.11-13.52.49:714][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.11-13.52.49:733][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.11-13.52.51:106][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.11-13.52.51:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.11-13.52.51:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.11-13.52.51:165][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.11-13.52.51:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.11-13.52.51:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.11-13.52.51:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.11-13.52.51:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.11-13.52.51:217][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.11-13.52.51:228][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.11-13.52.51:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.11-13.52.51:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.11-13.52.51:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.11-13.52.51:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.11-13.52.51:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.11-13.52.51:313][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.11-13.52.51:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.11-13.52.51:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.11-13.52.51:345][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.11-13.52.51:345][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.11-13.52.51:352][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.11-13.52.51:413][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (E:/UE4 PROJECT/TestSessionNull/Intermediate/Shaders/WorkingDirectory/8452/).
+[2022.02.11-13.52.51:413][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AndyGaol/AppData/Local/Temp/UnrealShaderWorkingDir/E6470F584D3616D0B3452797636D37EC/'.
+[2022.02.11-13.52.51:413][  0]LogXGEController: Cleaning working directory: C:/Users/AndyGaol/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.02.11-13.52.51:413][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.11-13.52.51:413][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.11-13.52.51:414][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.11-13.52.52:207][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.11-13.52.52:267][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/AndyGaol/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.02.11-13.52.52:267][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AndyGaol/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2022.02.11-13.52.52:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/UE4 PROJECT/TestSessionNull/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.11-13.52.52:267][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.11-13.52.52:267][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/UE4 PROJECT/TestSessionNull/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.11-13.52.52:267][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.11-13.52.52:278][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.11-13.52.52:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.11-13.52.52:278][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.11-13.52.52:280][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AndyGaol/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.11-13.52.52:280][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.11-13.52.52:280][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.11-13.52.52:332][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.11-13.52.52:333][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.11-13.52.52:368][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.02.11-13.52.52:619][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.11-13.52.52:757][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.11-13.52.52:757][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.11-13.52.52:757][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.11-13.52.52:757][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.11-13.52.52:757][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.11-13.52.52:782][  0]LogNetVersion: TestSessionNull 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3030781584)
+[2022.02.11-13.52.53:447][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000017124432280), frame # 0
+[2022.02.11-13.52.53:447][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017126537D80), frame # 0
+[2022.02.11-13.52.53:449][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001712654F200), frame # 0
+[2022.02.11-13.52.53:505][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.047599 seconds
+[2022.02.11-13.52.53:513][  0]LogUObjectArray: 15900 objects as part of root set at end of initial load.
+[2022.02.11-13.52.53:513][  0]LogUObjectAllocator: 3960000 out of 0 bytes used by permanent object pool.
+[2022.02.11-13.52.53:513][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.11-13.52.53:798][  0]LogPython: Using Python 2.7.14
+[2022.02.11-13.52.54:546][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.11-13.52.54:550][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.11-13.52.54:593][  0]LogSteamShared: Display: Loading Steam SDK 1.47
+[2022.02.11-13.52.54:593][  0]LogSteamShared: Steam SDK Loaded!
+[2022.02.11-13.52.54:648][  0]SourceControl: Source control is disabled
+[2022.02.11-13.52.54:648][  0]SourceControl: Source control is disabled
+[2022.02.11-13.52.54:652][  0]SourceControl: Source control is disabled
+[2022.02.11-13.52.54:654][  0]SourceControl: Source control is disabled
+[2022.02.11-13.52.54:660][  0]SourceControl: Source control is disabled
+[2022.02.11-13.52.54:933][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.11-13.52.54:963][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.11-13.52.54:963][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.11-13.52.55:037][  0]LogOcInput: OculusInput pre-init called
+[2022.02.11-13.52.55:050][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.11-13.52.55:050][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.11-13.52.55:626][  0]LogEngine: Initializing Engine...
+[2022.02.11-13.52.55:627][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.11-13.52.55:627][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.11-13.52.55:628][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.02.11-13.52.55:756][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.11-13.52.55:771][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.11-13.52.55:771][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171346C7C00), frame # 0
+[2022.02.11-13.52.55:771][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001713472DD00), frame # 0
+[2022.02.11-13.52.55:784][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-13.52.55:784][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-13.52.55:784][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-13.52.55:784][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-13.52.55:784][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-13.52.55:784][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-13.52.55:784][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-13.52.55:784][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-13.52.55:785][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.11-13.52.55:785][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-13.52.55:798][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-13.52.55:798][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-13.52.55:856][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.02.11-13.52.55:858][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-13.52.55:861][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-13.52.55:861][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-13.52.55:862][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-13.52.55:863][  0]LogInit: FAudioDevice initialized.
+[2022.02.11-13.52.55:863][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.11-13.52.56:139][  0]LogDerivedDataCache: Saved boot cache 0.28s 74MB C:/Users/AndyGaol/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.02.11-13.52.56:141][  0]LogInit: Texture streaming: Enabled
+[2022.02.11-13.52.56:156][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.11-13.52.56:156][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.11-13.52.56:158][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.11-13.52.56:195][  0]LogInit: Transaction tracking system initialized
+[2022.02.11-13.52.56:215][  0]BlueprintLog: New page: Editor Load
+[2022.02.11-13.52.56:291][  0]LocalizationService: Localization service is disabled
+[2022.02.11-13.52.56:452][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.02.11-13.52.56:452][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.11-13.52.56:619][  0]LogFileCache: Scanning file cache for directory 'E:/UE4 PROJECT/TestSessionNull/Content/' took 0.00s
+[2022.02.11-13.52.56:906][  0]SourceControl: Source control is disabled
+[2022.02.11-13.52.56:906][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.344
+[2022.02.11-13.52.56:906][  0]Cmd: MAP LOAD FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.11-13.52.56:907][  0]LightingResults: New page: Lighting Build
+[2022.02.11-13.52.56:908][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.52.56:908][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.52.56:908][  0]MapCheck: New page: Map Check
+[2022.02.11-13.52.56:908][  0]LightingResults: New page: Lighting Build
+[2022.02.11-13.52.56:916][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171346C7C00), frame # 0
+[2022.02.11-13.52.56:916][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001713472DD00), frame # 0
+[2022.02.11-13.52.56:917][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.02.11-13.52.57:860][  0]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-13.52.57:860][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017120F62000), frame # 0
+[2022.02.11-13.52.57:860][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001711C4F6340), frame # 0
+[2022.02.11-13.52.57:872][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.11-13.52.57:903][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.02.11-13.52.57:904][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.11-13.52.57:905][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.144ms to complete.
+[2022.02.11-13.52.57:905][  0]LogFileHelpers: Loading map 'MainMap' took 0.998
+[2022.02.11-13.52.57:907][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.344
+[2022.02.11-13.52.58:045][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.52.58:055][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.52.58:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.52.58:071][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.52.58:076][  0]LogCollectionManager: Loaded 0 collections in 0.000633 seconds
+[2022.02.11-13.52.58:090][  0]LogFileCache: Scanning file cache for directory 'E:/UE4 PROJECT/TestSessionNull/Saved/Collections/' took 0.00s
+[2022.02.11-13.52.58:090][  0]LogFileCache: Scanning file cache for directory 'E:/UE4 PROJECT/TestSessionNull/Content/Developers/AndyGaol/Collections/' took 0.00s
+[2022.02.11-13.52.58:090][  0]LogFileCache: Scanning file cache for directory 'E:/UE4 PROJECT/TestSessionNull/Content/Collections/' took 0.00s
+[2022.02.11-13.52.58:090][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 3300 classes and 816 folders.
+[2022.02.11-13.52.58:092][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.11-13.52.58:135][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.11-13.52.58:138][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.02.11-13.52.58:282][  0]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.11-13.52.58:287][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.11-13.52.58:290][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.11-13.52.58:348][  0]LogRenderer: Reallocating scene render targets to support 1060x364 Format 9 NumSamples 1 (Frame:1).
+[2022.02.11-13.52.58:469][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.11-13.52.58:469][  0]LogLoad: (Engine Initialization) Total time: 10.91 seconds
+[2022.02.11-13.52.58:469][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.11-13.52.58:513][  0]LogAssetRegistry: Asset discovery search completed in 6.1458 seconds
+[2022.02.11-13.52.58:519][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.11-13.52.58:520][  0]LogContentStreaming: Texture pool size now 800 MB
+[2022.02.11-13.52.58:556][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.11-13.52.59:517][ 28]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.11-13.53.02:434][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Main/ThirdPersonPC.ThirdPersonPC
+[2022.02.11-13.53.02:667][204]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2022.02.11-13.53.03:618][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/AllLevel/ThirdPersonChar.ThirdPersonChar
+[2022.02.11-13.53.03:984][204]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/MainWgt.MainWgt
+[2022.02.11-13.53.04:385][204]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-13.53.04:770][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/DefGInst.DefGInst
+[2022.02.11-13.53.05:170][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyPC.LobbyPC
+[2022.02.11-13.53.05:554][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM
+[2022.02.11-13.53.05:939][204]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayWgt.GameplayWgt
+[2022.02.11-13.53.06:322][204]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/PanlistFoundGameWgt.PanlistFoundGameWgt
+[2022.02.11-13.53.06:708][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2022.02.11-13.53.07:092][204]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/NewGameWgt.NewGameWgt
+[2022.02.11-13.53.07:475][204]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-13.53.07:860][204]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2022.02.11-13.53.08:616][204]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.11-13.53.11:813][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-13.53.11:827][392]PIE: New page: PIE session: MainMap (Feb 12, 2022, 3:53:11 AM)
+[2022.02.11-13.53.11:828][392]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.11-13.53.11:841][392]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.11-13.53.11:842][392]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap
+[2022.02.11-13.53.11:886][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043859s)
+[2022.02.11-13.53.11:887][392]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-13.53.11:887][392]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171E23D6200), frame # 392
+[2022.02.11-13.53.11:888][392]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171E23EEAC0), frame # 392
+[2022.02.11-13.53.11:888][392]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2022.02.11-13.53.11:888][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMap.MainMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap.MainMap (0.046074s)
+[2022.02.11-13.53.11:986][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-13.53.11:988][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-13.53.11:988][392]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.11-13.53.11:988][392]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-13.53.12:131][392]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-13.53.12:131][392]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-13.53.12:349][392]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.02.11-13.53.12:349][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-13.53.12:349][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-13.53.12:349][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-13.53.12:349][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-13.53.12:365][392]LogInit: FAudioDevice initialized.
+[2022.02.11-13.53.12:454][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.12:522][392]LogLoad: Game class is 'ThirdPersonGM_C'
+[2022.02.11-13.53.12:523][392]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-20.53.12
+[2022.02.11-13.53.12:523][392]LogWorld: Bringing up level for play took: 0.001547
+[2022.02.11-13.53.12:524][392]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.02.11-13.53.12:536][392]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.02.11-13.53.12:536][392]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.02.11-13.53.12:536][392]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.02.11-13.53.12:537][392]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.02.11-13.53.12:537][392]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.02.11-13.53.12:537][392]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.53.12:537][392]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2022.02.11-13.53.12:537][392]Cmd: r.SetRes 640x480w
+[2022.02.11-13.53.12:585][392]r.SetRes = "640x480w"
+[2022.02.11-13.53.12:638][392]LogRenderer: Reallocating scene render targets to support 1060x392 Format 9 NumSamples 1 (Frame:1).
+[2022.02.11-13.53.12:696][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.12:756][392]PIE: Server logged in
+[2022.02.11-13.53.12:763][392]PIE: Play in editor total start time 1.019 seconds.
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-13.53.12:765][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-13.53.12:765][392]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.11-13.53.12:765][392]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-13.53.12:770][392]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-13.53.12:770][392]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-13.53.12:794][392]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.02.11-13.53.12:795][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-13.53.12:795][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-13.53.12:795][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-13.53.12:796][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-13.53.12:811][392]LogInit: FAudioDevice initialized.
+[2022.02.11-13.53.12:838][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.12:838][392]LogNet: Browse: 127.0.0.1:17777/Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-13.53.12:839][392]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.02.11-13.53.12:839][392]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.02.11-13.53.12:846][392]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.53.12:861][392]LogNet: Game client on port 17777, rate 10000
+[2022.02.11-13.53.12:900][392]PIE: Client logged in
+[2022.02.11-13.53.12:905][392]PIE: Play in editor total start time 1.16 seconds.
+[2022.02.11-13.53.13:914][418]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58342
+[2022.02.11-13.53.13:937][418]LogHandshake: SendConnectChallenge. Timestamp: 2.218616, Cookie: 095060215197126174137131179137165075007140149088109143207254
+[2022.02.11-13.53.13:946][418]LogHandshake: SendChallengeResponse. Timestamp: 2.218616, Cookie: 095060215197126174137131179137165075007140149088109143207254
+[2022.02.11-13.53.13:967][419]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58342
+[2022.02.11-13.53.13:967][419]LogHandshake: SendChallengeAck. InCookie: 095060215197126174137131179137165075007140149088109143207254
+[2022.02.11-13.53.13:967][419]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58342
+[2022.02.11-13.53.13:968][419]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.53.13:976][419]LogNet: NotifyAcceptedConnection: Name: MainMap, TimeStamp: 02/11/22 20:53:13, [UNetConnection] RemoteAddr: 127.0.0.1:58342, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.53.13:976][419]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58342, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.53.13:978][419]LogNetVersion: TestSessionNull 1.0.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1150894568)
+[2022.02.11-13.53.13:978][419]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.53.14:028][420]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap.MainMap: Accepted
+[2022.02.11-13.53.14:039][420]LogNet: Remote platform little endian=1
+[2022.02.11-13.53.14:039][420]LogNet: This platform little endian=1
+[2022.02.11-13.53.14:052][420]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.02.11-13.53.14:079][421]LogNet: Login request: ?Name=AndyLesmando-907C49554B86480143EEAD9653E60103 userId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103 platform: NULL
+[2022.02.11-13.53.14:079][421]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap, Game: /Game/ThirdPersonBP/Blueprints/Main/ThirdPersonGM.ThirdPersonGM_C)
+[2022.02.11-13.53.14:080][421]LogLoad: LoadMap: 127.0.0.1:17777/Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap?game=/Game/ThirdPersonBP/Blueprints/Main/ThirdPersonGM.ThirdPersonGM_C
+[2022.02.11-13.53.14:080][421]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2022.02.11-13.53.14:080][421]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.53.14:080][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.53.14:192][421]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2022.02.11-13.53.14:219][421]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-13.53.14:219][421]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171DA90C200), frame # 421
+[2022.02.11-13.53.14:219][421]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171DF61E0C0), frame # 421
+[2022.02.11-13.53.14:230][421]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-20.53.14
+[2022.02.11-13.53.14:230][421]LogWorld: Bringing up level for play took: 0.008655
+[2022.02.11-13.53.14:231][421]LogLoad: Took 0.151545 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap)
+[2022.02.11-13.53.14:231][421]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.02.11-13.53.14:276][422]LogNet: Client netspeed is 10000
+[2022.02.11-13.53.14:276][422]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMap?Name=AndyLesmando-907C49554B86480143EEAD9653E60103?SplitscreenCount=1
+[2022.02.11-13.53.14:303][422]LogRenderer: Reallocating scene render targets to support 1060x420 Format 9 NumSamples 1 (Frame:1).
+[2022.02.11-13.53.14:303][422]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.11-13.53.14:590][422]LogNet: Join succeeded: AndyLesmando-907C495
+[2022.02.11-13.53.15:315][448]Cmd: r.SetRes 640x480w
+[2022.02.11-13.53.15:315][448]r.SetRes = "640x480w"
+[2022.02.11-13.53.15:315][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.15:463][454]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.11-13.53.15:567][458]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.11-13.53.18:562][568]LogNet: Browse: /Game/ThirdPersonBP/Maps/LobbyMap??listen
+[2022.02.11-13.53.18:562][568]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/LobbyMap??listen
+[2022.02.11-13.53.18:562][568]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap
+[2022.02.11-13.53.18:562][568]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2022.02.11-13.53.18:562][568]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2022.02.11-13.53.18:581][568]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58342, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: ThirdPersonPC_C_1, Owner: ThirdPersonPC_C_1, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.53.18:581][568]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58342, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: ThirdPersonPC_C_1, Owner: ThirdPersonPC_C_1, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103, Channels: 13, Time: 2022.02.11-13.53.18
+[2022.02.11-13.53.18:581][568]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58342, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: ThirdPersonPC_C_1, Owner: ThirdPersonPC_C_1, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.53.18:582][568]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2022.02.11-13.53.18:583][568]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.53.18:593][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.53.18:656][568]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171E23D6200), frame # 568
+[2022.02.11-13.53.18:656][568]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171E23EEAC0), frame # 568
+[2022.02.11-13.53.18:660][568]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.02.11-13.53.18:752][568]LogAIModule: Creating AISystem for world LobbyMap
+[2022.02.11-13.53.18:753][568]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171E247A200), frame # 568
+[2022.02.11-13.53.18:753][568]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171DF7451C0), frame # 568
+[2022.02.11-13.53.18:753][568]LogLoad: Game class is 'LobbyGM_C'
+[2022.02.11-13.53.18:753][568]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.02.11-13.53.18:753][568]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.02.11-13.53.18:754][568]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.02.11-13.53.18:754][568]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2022.02.11-13.53.18:754][568]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.53.18:754][568]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2022.02.11-13.53.18:757][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2022.02.11-20.53.18
+[2022.02.11-13.53.18:757][568]LogWorld: Bringing up level for play took: 0.002547
+[2022.02.11-13.53.18:758][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.18:780][568]LogLoad: Took 0.217755 seconds to LoadMap(/Game/ThirdPersonBP/Maps/LobbyMap)
+[2022.02.11-13.53.18:794][568]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_1
+[2022.02.11-13.53.18:795][568]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2022.02.11-13.53.18:802][568]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2022.02.11-13.53.18:802][568]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: ThirdPersonPC_C_0, Owner: ThirdPersonPC_C_0, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103, Channels: 13, Time: 2022.02.11-13.53.18
+[2022.02.11-13.53.18:802][568]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: ThirdPersonPC_C_0, Owner: ThirdPersonPC_C_0, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.53.18:803][568]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_1
+[2022.02.11-13.53.18:855][569]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMap?closed
+[2022.02.11-13.53.18:855][569]LogNet: Connection failed; returning to Entry
+[2022.02.11-13.53.18:855][569]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMap?closed
+[2022.02.11-13.53.18:855][569]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-13.53.18:855][569]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2022.02.11-13.53.18:855][569]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2022.02.11-13.53.18:855][569]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2022.02.11-13.53.18:856][569]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.53.18:857][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.53.18:936][569]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171DF61E0C0), frame # 569
+[2022.02.11-13.53.18:936][569]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171DA90C200), frame # 569
+[2022.02.11-13.53.18:941][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2022.02.11-13.53.18:944][569]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-13.53.18:964][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020081s)
+[2022.02.11-13.53.18:966][569]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-13.53.18:966][569]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171575BEE00), frame # 569
+[2022.02.11-13.53.18:966][569]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171E1927240), frame # 569
+[2022.02.11-13.53.18:966][569]LogPlayLevel: PIE: World Init took: (0.002205s)
+[2022.02.11-13.53.18:966][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMap.MainMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap (0.022650s)
+[2022.02.11-13.53.18:966][569]LogLoad: Game class is 'ThirdPersonGM_C'
+[2022.02.11-13.53.18:974][569]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-20.53.18
+[2022.02.11-13.53.18:974][569]LogWorld: Bringing up level for play took: 0.006862
+[2022.02.11-13.53.18:976][569]Cmd: r.SetRes 640x480w
+[2022.02.11-13.53.18:976][569]r.SetRes = "640x480w"
+[2022.02.11-13.53.18:976][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.18:978][569]LogLoad: Took 0.122442 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap)
+[2022.02.11-13.53.19:051][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.02.11-13.53.30:316][979]LogOnlineSession: OSS: Join session: traveling to 192.168.100.17:7777
+[2022.02.11-13.53.30:318][979]LogNet: Browse: 192.168.100.17/Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-13.53.30:318][979]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.02.11-13.53.30:318][979]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.02.11-13.53.30:318][979]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.53.30:318][979]LogNet: Game client on port 7777, rate 10000
+[2022.02.11-13.53.31:350][ 18]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.17:53200
+[2022.02.11-13.53.31:350][ 18]LogHandshake: SendConnectChallenge. Timestamp: 12.848977, Cookie: 001054223079068172211120010034047113120025118037014181197229
+[2022.02.11-13.53.31:351][ 18]LogHandshake: SendChallengeResponse. Timestamp: 12.848977, Cookie: 001054223079068172211120010034047113120025118037014181197229
+[2022.02.11-13.53.31:376][ 19]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.17:53200
+[2022.02.11-13.53.31:376][ 19]LogHandshake: SendChallengeAck. InCookie: 001054223079068172211120010034047113120025118037014181197229
+[2022.02.11-13.53.31:376][ 19]LogNet: Server accepting post-challenge connection from: 192.168.100.17:53200
+[2022.02.11-13.53.31:377][ 19]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.53.31:377][ 19]LogNet: NotifyAcceptedConnection: Name: LobbyMap, TimeStamp: 02/11/22 20:53:31, [UNetConnection] RemoteAddr: 192.168.100.17:53200, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.53.31:377][ 19]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.100.17:53200, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.53.31:378][ 19]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.53.31:402][ 20]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap.LobbyMap: Accepted
+[2022.02.11-13.53.31:402][ 20]LogNet: Remote platform little endian=1
+[2022.02.11-13.53.31:403][ 20]LogNet: This platform little endian=1
+[2022.02.11-13.53.31:430][ 21]LogNet: Login request: ?Name=AndyLesmando-907C49554B86480143EEAD9653E60103 userId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103 platform: NULL
+[2022.02.11-13.53.31:432][ 21]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap, Game: /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2022.02.11-13.53.31:432][ 21]LogLoad: LoadMap: 192.168.100.17/Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap?game=/Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2022.02.11-13.53.31:432][ 21]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-13.53.31:433][ 21]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.53.31:433][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.53.31:493][ 21]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171E1927240), frame # 1021
+[2022.02.11-13.53.31:493][ 21]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171575BEE00), frame # 1021
+[2022.02.11-13.53.31:496][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.02.11-13.53.31:507][ 21]LogAIModule: Creating AISystem for world LobbyMap
+[2022.02.11-13.53.31:507][ 21]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171DA90C200), frame # 1021
+[2022.02.11-13.53.31:507][ 21]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171DF867740), frame # 1021
+[2022.02.11-13.53.31:509][ 21]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_LobbyMap.LobbyMap up for play (max tick rate 0) at 2022.02.11-20.53.31
+[2022.02.11-13.53.31:509][ 21]LogWorld: Bringing up level for play took: 0.001530
+[2022.02.11-13.53.31:509][ 21]LogLoad: Took 0.077154 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap)
+[2022.02.11-13.53.31:510][ 21]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.02.11-13.53.31:543][ 22]LogNet: Client netspeed is 10000
+[2022.02.11-13.53.31:543][ 22]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMap?Name=AndyLesmando-907C49554B86480143EEAD9653E60103?SplitscreenCount=1
+[2022.02.11-13.53.31:599][ 22]LogNet: Join succeeded: AndyLesmando-907C495
+[2022.02.11-13.53.31:602][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.37:402][223]LogBlueprintUserMessages: [LobbyWgt_C_0] Client 0: lobby WGT ->Destroy Session FAIL
+[2022.02.11-13.53.37:402][223]LogBlueprintUserMessages: [LobbyWgt_C_0] Client 0: lobby WGT ->Open level = MainMap
+[2022.02.11-13.53.38:413][257]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-13.53.38:413][257]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-13.53.38:413][257]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_LobbyMap
+[2022.02.11-13.53.38:413][257]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2022.02.11-13.53.38:413][257]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2022.02.11-13.53.38:413][257]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103, Channels: 10, Time: 2022.02.11-13.53.38
+[2022.02.11-13.53.38:413][257]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.53.38:413][257]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2022.02.11-13.53.38:414][257]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.53.38:415][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.53.38:475][257]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171DF867740), frame # 1257
+[2022.02.11-13.53.38:475][257]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171DA90C200), frame # 1257
+[2022.02.11-13.53.38:478][257]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.11-13.53.38:479][257]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-13.53.38:494][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013516s)
+[2022.02.11-13.53.38:495][257]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-13.53.38:496][257]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171DEE28C00), frame # 1257
+[2022.02.11-13.53.38:515][257]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171DD96DBC0), frame # 1257
+[2022.02.11-13.53.38:515][257]LogPlayLevel: PIE: World Init took: (0.021332s)
+[2022.02.11-13.53.38:515][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMap.MainMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap (0.035866s)
+[2022.02.11-13.53.38:515][257]LogLoad: Game class is 'ThirdPersonGM_C'
+[2022.02.11-13.53.38:521][257]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-20.53.38
+[2022.02.11-13.53.38:521][257]LogWorld: Bringing up level for play took: 0.005157
+[2022.02.11-13.53.38:523][257]Cmd: r.SetRes 640x480w
+[2022.02.11-13.53.38:523][257]r.SetRes = "640x480w"
+[2022.02.11-13.53.38:523][257]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.53.38:524][257]LogLoad: Took 0.110788 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap)
+[2022.02.11-13.53.38:559][258]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.11-13.53.38:559][258]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:53200, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.53.38:560][258]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.100.17:53200, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103, Channels: 10, Time: 2022.02.11-13.53.38
+[2022.02.11-13.53.38:560][258]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:53200, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.53.59:394][ 32]LogOnlineSession: OSS: Join session: traveling to 192.168.100.17:7777
+[2022.02.11-13.53.59:397][ 32]LogNet: Browse: 192.168.100.17/Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-13.53.59:397][ 32]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.02.11-13.53.59:397][ 32]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.02.11-13.53.59:398][ 32]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.53.59:398][ 32]LogNet: Game client on port 7777, rate 10000
+[2022.02.11-13.54.00:448][ 71]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.17:58088
+[2022.02.11-13.54.00:448][ 71]LogHandshake: SendConnectChallenge. Timestamp: 41.947006, Cookie: 106244146135075193226074026109245150255010213231169213167122
+[2022.02.11-13.54.00:449][ 71]LogHandshake: SendChallengeResponse. Timestamp: 41.947006, Cookie: 106244146135075193226074026109245150255010213231169213167122
+[2022.02.11-13.54.00:475][ 72]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.17:58088
+[2022.02.11-13.54.00:476][ 72]LogHandshake: SendChallengeAck. InCookie: 106244146135075193226074026109245150255010213231169213167122
+[2022.02.11-13.54.00:476][ 72]LogNet: Server accepting post-challenge connection from: 192.168.100.17:58088
+[2022.02.11-13.54.00:476][ 72]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-13.54.00:476][ 72]LogNet: NotifyAcceptedConnection: Name: LobbyMap, TimeStamp: 02/11/22 20:54:00, [UNetConnection] RemoteAddr: 192.168.100.17:58088, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.54.00:476][ 72]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.100.17:58088, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.54.00:477][ 72]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-13.54.00:503][ 73]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap.LobbyMap: Accepted
+[2022.02.11-13.54.00:503][ 73]LogNet: Remote platform little endian=1
+[2022.02.11-13.54.00:503][ 73]LogNet: This platform little endian=1
+[2022.02.11-13.54.00:529][ 74]LogNet: Login request: ?Name=AndyLesmando-907C49554B86480143EEAD9653E60103 userId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103 platform: NULL
+[2022.02.11-13.54.00:530][ 74]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap, Game: /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2022.02.11-13.54.00:531][ 74]LogLoad: LoadMap: 192.168.100.17/Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap?game=/Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2022.02.11-13.54.00:531][ 74]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-13.54.00:532][ 74]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.54.00:532][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.54.00:597][ 74]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171DD96DBC0), frame # 2074
+[2022.02.11-13.54.00:597][ 74]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171DEE28C00), frame # 2074
+[2022.02.11-13.54.00:600][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.02.11-13.54.00:612][ 74]LogAIModule: Creating AISystem for world LobbyMap
+[2022.02.11-13.54.00:612][ 74]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171DD812C00), frame # 2074
+[2022.02.11-13.54.00:612][ 74]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171F3DB47C0), frame # 2074
+[2022.02.11-13.54.00:614][ 74]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_LobbyMap.LobbyMap up for play (max tick rate 0) at 2022.02.11-20.54.00
+[2022.02.11-13.54.00:615][ 74]LogWorld: Bringing up level for play took: 0.001722
+[2022.02.11-13.54.00:615][ 74]LogLoad: Took 0.083886 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap)
+[2022.02.11-13.54.00:615][ 74]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.02.11-13.54.00:649][ 75]LogNet: Client netspeed is 10000
+[2022.02.11-13.54.00:650][ 75]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMap?Name=AndyLesmando-907C49554B86480143EEAD9653E60103?SplitscreenCount=1
+[2022.02.11-13.54.00:653][ 75]LogNet: Join succeeded: AndyLesmando-907C495
+[2022.02.11-13.54.00:654][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.54.05:579][247]LogBlueprintUserMessages: [LobbyWgt_C_1] Client 0: lobby WGT ->Destroy Session FAIL
+[2022.02.11-13.54.05:579][247]LogBlueprintUserMessages: [LobbyWgt_C_1] Client 0: lobby WGT ->Open level = MainMap
+[2022.02.11-13.54.06:600][282]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-13.54.06:600][282]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-13.54.06:600][282]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_LobbyMap
+[2022.02.11-13.54.06:600][282]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2022.02.11-13.54.06:600][282]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2022.02.11-13.54.06:601][282]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103, Channels: 10, Time: 2022.02.11-13.54.06
+[2022.02.11-13.54.06:601][282]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.54.06:601][282]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2022.02.11-13.54.06:602][282]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.54.06:603][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.54.06:670][282]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171F3DB47C0), frame # 2282
+[2022.02.11-13.54.06:670][282]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171DD812C00), frame # 2282
+[2022.02.11-13.54.06:673][282]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.02.11-13.54.06:674][282]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-13.54.06:688][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013763s)
+[2022.02.11-13.54.06:689][282]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-13.54.06:689][282]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171F3D96400), frame # 2282
+[2022.02.11-13.54.06:689][282]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171DDF674C0), frame # 2282
+[2022.02.11-13.54.06:690][282]LogPlayLevel: PIE: World Init took: (0.001724s)
+[2022.02.11-13.54.06:690][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMap.MainMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap (0.015669s)
+[2022.02.11-13.54.06:690][282]LogLoad: Game class is 'ThirdPersonGM_C'
+[2022.02.11-13.54.06:711][282]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-20.54.06
+[2022.02.11-13.54.06:712][282]LogWorld: Bringing up level for play took: 0.022029
+[2022.02.11-13.54.06:714][282]Cmd: r.SetRes 640x480w
+[2022.02.11-13.54.06:714][282]r.SetRes = "640x480w"
+[2022.02.11-13.54.06:714][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.54.06:715][282]LogLoad: Took 0.115572 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap)
+[2022.02.11-13.54.06:750][283]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.11-13.54.06:751][283]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:58088, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.54.06:751][283]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.100.17:58088, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103, Channels: 10, Time: 2022.02.11-13.54.06
+[2022.02.11-13.54.06:751][283]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:58088, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: LobbyPC_C_2, Owner: LobbyPC_C_2, UniqueId: NULL:AndyLesmando-907C49554B86480143EEAD9653E60103
+[2022.02.11-13.54.15:794][617]LogSlate: Window 'TestSessionNull Preview [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2022.02.11-13.54.15:875][617]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-13.54.15:875][617]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.54.15:876][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.54.15:884][617]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap
+[2022.02.11-13.54.15:885][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-13.54.15:885][617]LogSlate: Window 'TestSessionNull Preview [NetMode: Server] (64-bit/Windows) ' being destroyed
+[2022.02.11-13.54.15:890][617]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-13.54.15:891][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.54.15:901][617]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2022.02.11-13.54.15:901][617]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2022.02.11-13.54.15:901][617]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2022.02.11-13.54.15:903][617]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-13.54.15:952][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-13.54.16:070][617]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171DF7451C0), frame # 2617
+[2022.02.11-13.54.16:070][617]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171E247A200), frame # 2617
+[2022.02.11-13.54.16:070][617]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171DDF674C0), frame # 2617
+[2022.02.11-13.54.16:070][617]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171F3D96400), frame # 2617
+[2022.02.11-13.54.16:074][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.02.11-13.54.16:129][618]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.02.11-13.54.16:129][618]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.02.11-13.54.23:065][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.02.11-13.54.55:950][804]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.55.00:902][824]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.55.48:264][ 59]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.57.04:221][447]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.57.33:847][586]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.57.37:001][598]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.58.44:556][ 19]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.59.20:027][181]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.59.21:246][186]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-13.59.47:655][304]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.01.11:088][735]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.01.35:672][849]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.01.42:080][876]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.01.46:399][901]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.02.12:198][ 19]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.02.27:799][ 96]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.03.07:500][278]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.03.17:098][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.04.49:148][851]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.04.56:047][882]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.05.24:438][ 12]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.05.27:347][ 23]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.05.40:561][ 86]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.08.28:638][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.08.55:234][435]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.09.30:629][594]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.10.59:783][827]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.11.31:847][968]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.12.04:247][111]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.12.36:228][257]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.13.07:552][395]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.13.09:131][401]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.13.13:104][417]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.13.41:279][631]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.11-14.13.58:505][370]LogSlate: Took 0.002034 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.02.11-14.14.11:083][925]BlueprintLog: New page: Compile FindGameWgt
+[2022.02.11-14.14.11:180][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.02.11-14.14.11:293][925]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.11-14.14.11:692][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.14.11:738][945]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgtDED9F2BB44284F30E325BDA4B611E543.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.14.11:756][945]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.14.11:756][945]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.14.38:756][162]BlueprintLog: New page: Compile FindGameWgt
+[2022.02.11-14.14.38:840][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.02.11-14.14.39:540][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.14.39:583][190]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt0C463E454987322C20F890866BF826E3.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.14.39:594][190]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.14.39:594][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.14.43:132][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.14.43:174][342]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt361DA92C411F2B12B76E1EB97EE96726.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.14.43:185][342]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.14.43:185][342]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.15.00:590][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.15.00:633][ 82]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt868293CB456907B831214688EC67B96C.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.15.00:645][ 82]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.15.00:645][ 82]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.15.01:172][108]BlueprintLog: New page: Compile FindGameWgt
+[2022.02.11-14.15.01:264][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.02.11-14.15.01:811][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.15.01:854][130]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt46397A10437375E1ECE71CB2CD8AB6FD.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.15.01:869][130]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.15.01:869][130]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.15.10:331][495]BlueprintLog: New page: Compile GameplayGM
+[2022.02.11-14.15.10:568][495]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.02.11-14.15.11:099][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Gameplay/GameplayGM" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayGM.uasset" SILENT=true
+[2022.02.11-14.15.11:175][513]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/GameplayGMF842CD7B4A907E316F3955B5FA2EA0F3.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayGM.uasset'
+[2022.02.11-14.15.11:191][513]AssetCheck: New page: Asset Save: GameplayGM
+[2022.02.11-14.15.11:191][513]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayGM.GameplayGM
+[2022.02.11-14.15.14:487][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.02.11-14.15.54:956][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.15.54:999][542]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt1472206D4D47B9CCE1D7AA871AA2A2FD.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.15.55:015][542]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.15.55:015][542]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.17.22:888][491]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.17.23:041][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.02.11-14.17.23:801][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.17.23:938][519]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt671A3FDF44ADEB07218929A0F49025B3.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.17.23:954][519]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.17.23:954][519]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.17.59:177][ 54]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.17.59:301][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.02.11-14.17.59:804][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.17.59:895][ 73]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt390F63AA43936C6E4565B5A759F3B516.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.17.59:909][ 73]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.17.59:909][ 73]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.18.56:350][513]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.18.56:477][513]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.02.11-14.18.56:991][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.18.57:083][532]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt7D356B5C4F654F0D723E4E8912F0F554.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.18.57:097][532]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.18.57:097][532]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.19.03:757][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.19.03:850][831]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt98AEBA994DD905D63B279C896D33911E.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.19.03:862][831]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.19.03:862][831]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.19.17:809][506]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.19.17:964][506]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2022.02.11-14.19.18:543][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.19.18:641][529]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt52F8C7134589657827310B995138326A.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.19.18:656][529]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.19.18:656][529]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.19.30:805][129]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.19.30:923][129]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.02.11-14.19.31:558][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.19.31:651][153]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt29F753054E3397B0837936846EC56F12.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.19.31:666][153]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.19.31:666][153]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.19.40:658][556]BlueprintLog: New page: Compile NewGameWgt
+[2022.02.11-14.19.40:766][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.02.11-14.19.41:347][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/NewGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/NewGameWgt.uasset" SILENT=true
+[2022.02.11-14.19.41:387][581]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/NewGameWgt9738F4064FE10131335305B0374C7D28.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/NewGameWgt.uasset'
+[2022.02.11-14.19.41:402][581]AssetCheck: New page: Asset Save: NewGameWgt
+[2022.02.11-14.19.41:402][581]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/NewGameWgt.NewGameWgt
+[2022.02.11-14.19.52:984][ 81]BlueprintLog: New page: Compile GameplayPC
+[2022.02.11-14.19.53:154][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2022.02.11-14.19.54:311][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2022.02.11-14.19.54:455][121]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/GameplayPC489DC79D4C44EF9162B62EB6FD34FF9D.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset'
+[2022.02.11-14.19.54:495][121]AssetCheck: New page: Asset Save: GameplayPC
+[2022.02.11-14.19.54:495][121]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2022.02.11-14.20.12:417][939]BlueprintLog: New page: Compile GameplayPC
+[2022.02.11-14.20.12:583][939]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.02.11-14.20.13:223][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2022.02.11-14.20.13:294][959]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/GameplayPC6274436940D778A3C41288AC8066A69F.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset'
+[2022.02.11-14.20.13:309][959]AssetCheck: New page: Asset Save: GameplayPC
+[2022.02.11-14.20.13:309][959]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2022.02.11-14.20.34:670][ 17]BlueprintLog: New page: Compile GameplayPC
+[2022.02.11-14.20.34:829][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2022.02.11-14.20.35:294][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2022.02.11-14.20.35:363][ 29]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/GameplayPC4358E319435958DA9D1B30901EB87EF2.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset'
+[2022.02.11-14.20.35:376][ 29]AssetCheck: New page: Asset Save: GameplayPC
+[2022.02.11-14.20.35:376][ 29]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2022.02.11-14.21.54:217][494]BlueprintLog: New page: Compile GameplayPC
+[2022.02.11-14.21.54:405][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.02.11-14.21.55:252][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset" SILENT=true
+[2022.02.11-14.21.55:324][523]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/GameplayPC5489144D4667A31742A8A48DB48FED3B.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.uasset'
+[2022.02.11-14.21.55:338][523]AssetCheck: New page: Asset Save: GameplayPC
+[2022.02.11-14.21.55:338][523]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Gameplay/GameplayPC.GameplayPC
+[2022.02.11-14.22.18:230][563]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.22.18:361][563]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.02.11-14.22.19:042][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.22.19:134][586]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt7C40F4E545E124EA83D1B1BF792EE386.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.22.19:147][586]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.22.19:147][586]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.23.19:418][437]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.23.19:549][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2022.02.11-14.23.20:172][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.23.20:312][462]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgtA76C78634DC16216B3DCD9ADF83CF20A.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.23.20:326][462]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.23.20:327][462]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.23.57:435][224]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.23.57:560][224]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.02.11-14.23.58:095][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.23.58:210][245]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt704683A348B804CBCC9C5BBEA27E51EA.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.23.58:225][245]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.23.58:225][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.24.02:315][490]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.24.02:443][490]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2022.02.11-14.24.03:075][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.24.03:167][516]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt36CEEFFE49E85416E8BD76ABC8F93900.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.24.03:180][516]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.24.03:180][516]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.24.19:229][295]BlueprintLog: New page: Compile LobbyPC
+[2022.02.11-14.24.19:428][295]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.02.11-14.24.20:818][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyPC" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2022.02.11-14.24.20:974][344]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyPCAA990572444362E53B6DD0A912F1849A.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyPC.uasset'
+[2022.02.11-14.24.20:990][344]AssetCheck: New page: Asset Save: LobbyPC
+[2022.02.11-14.24.20:990][344]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyPC.LobbyPC
+[2022.02.11-14.24.47:171][ 22]LogEditorTransaction: Undo Delete current selection
+[2022.02.11-14.24.49:977][144]LogEditorTransaction: Undo Delete current selection
+[2022.02.11-14.25.41:898][830]BlueprintLog: New page: Compile LobbyPC
+[2022.02.11-14.25.42:092][830]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.02.11-14.25.42:879][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyPC" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyPC.uasset" SILENT=true
+[2022.02.11-14.25.42:960][861]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyPCFF7825F94E7474ABBD406697CE9FDC2F.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyPC.uasset'
+[2022.02.11-14.25.42:974][861]AssetCheck: New page: Asset Save: LobbyPC
+[2022.02.11-14.25.42:974][861]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyPC.LobbyPC
+[2022.02.11-14.26.35:716][222]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.26.35:872][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.02.11-14.26.36:290][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.26.36:383][234]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgtC270F3674E21B62F9D5320BC0B958607.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.26.36:398][234]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.26.36:398][234]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.28.07:098][343]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.28.07:232][343]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.02.11-14.28.08:178][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.28.08:269][378]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt0D7C12B645E80C11052A98BF0503E9E5.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.28.08:282][378]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.28.08:282][378]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.28.23:627][ 60]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.28.23:753][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2022.02.11-14.28.24:249][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.28.24:342][ 76]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt5329E7D94553E037F21C919C455AE4AB.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.28.24:357][ 76]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.28.24:357][ 76]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.29.37:670][391]BlueprintLog: New page: Compile LobbyWgt
+[2022.02.11-14.29.37:793][391]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.02.11-14.29.38:411][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.29.38:503][412]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgtBD51C6E94B6C9EA6B35A45898F2D1BA1.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.29.38:517][412]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.29.38:517][412]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.29.57:991][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.29.58:081][293]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgtC3668FF64081FFE62B471E8E89D367F1.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.29.58:096][293]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.29.58:096][293]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.30.12:558][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset" SILENT=true
+[2022.02.11-14.30.12:647][916]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/LobbyWgt38CC3C9047BC1A3B0296DC9C647716A1.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.uasset'
+[2022.02.11-14.30.12:660][916]AssetCheck: New page: Asset Save: LobbyWgt
+[2022.02.11-14.30.12:661][916]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Lobby/LobbyWgt.LobbyWgt
+[2022.02.11-14.30.34:411][850]BlueprintLog: New page: Compile PanlistFoundGameWgt
+[2022.02.11-14.30.34:509][850]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2022.02.11-14.30.35:063][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/PanlistFoundGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/PanlistFoundGameWgt.uasset" SILENT=true
+[2022.02.11-14.30.35:187][870]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/PanlistFoundGameWgtAE244DC74C162B23BBBDC588A1936338.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/PanlistFoundGameWgt.uasset'
+[2022.02.11-14.30.35:203][870]AssetCheck: New page: Asset Save: PanlistFoundGameWgt
+[2022.02.11-14.30.35:203][870]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/PanlistFoundGameWgt.PanlistFoundGameWgt
+[2022.02.11-14.30.45:783][333]BlueprintLog: New page: Compile FindGameWgt
+[2022.02.11-14.30.45:877][333]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.02.11-14.30.46:406][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.30.46:450][354]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt5F1427B74D5503AC51BC99A2CABD1385.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.30.46:466][354]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.30.46:466][354]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.30.48:125][433]BlueprintLog: New page: Compile MainWgt
+[2022.02.11-14.30.48:212][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.02.11-14.30.48:780][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/MainWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/MainWgt.uasset" SILENT=true
+[2022.02.11-14.30.48:815][458]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/MainWgt6594F4BA451A44ABFA75C8AF178EF8D7.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/MainWgt.uasset'
+[2022.02.11-14.30.48:829][458]AssetCheck: New page: Asset Save: MainWgt
+[2022.02.11-14.30.48:829][458]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/MainWgt.MainWgt
+[2022.02.11-14.32.00:815][671]BlueprintLog: New page: Compile FindGameWgt
+[2022.02.11-14.32.00:931][671]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2022.02.11-14.32.01:519][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.32.01:566][696]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt4BFDCFF643BF4207AEC054B8E50EB3CA.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.32.01:580][696]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.32.01:580][696]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.32.04:863][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.11-14.32.04:863][917]PIE: New page: PIE session: MainMap (Feb 12, 2022, 4:32:04 AM)
+[2022.02.11-14.32.04:863][917]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap
+[2022.02.11-14.32.04:881][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017142s)
+[2022.02.11-14.32.04:882][917]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-14.32.04:882][917]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017205B40A00), frame # 60917
+[2022.02.11-14.32.04:882][917]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171E39A02C0), frame # 60917
+[2022.02.11-14.32.04:883][917]LogPlayLevel: PIE: World Init took: (0.002086s)
+[2022.02.11-14.32.04:883][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMap.MainMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap.MainMap (0.019576s)
+[2022.02.11-14.32.04:958][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.02.11-14.32.04:959][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-14.32.04:959][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-14.32.04:959][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-14.32.04:959][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-14.32.04:960][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-14.32.04:960][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-14.32.04:960][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-14.32.04:960][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-14.32.04:960][917]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.11-14.32.04:960][917]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-14.32.04:967][917]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-14.32.04:967][917]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-14.32.04:997][917]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.02.11-14.32.04:997][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-14.32.04:997][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-14.32.04:997][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-14.32.04:998][917]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-14.32.05:013][917]LogInit: FAudioDevice initialized.
+[2022.02.11-14.32.05:060][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.05:060][917]LogLoad: Game class is 'ThirdPersonGM_C'
+[2022.02.11-14.32.05:063][917]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-21.32.05
+[2022.02.11-14.32.05:063][917]LogWorld: Bringing up level for play took: 0.002565
+[2022.02.11-14.32.05:064][917]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.02.11-14.32.05:066][917]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.02.11-14.32.05:066][917]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.02.11-14.32.05:066][917]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.02.11-14.32.05:066][917]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.02.11-14.32.05:066][917]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-14.32.05:066][917]LogNet: GameNetDriver IpNetDriver_5 IpNetDriver listening on port 17777
+[2022.02.11-14.32.05:067][917]Cmd: r.SetRes 640x480w
+[2022.02.11-14.32.05:067][917]r.SetRes = "640x480w"
+[2022.02.11-14.32.05:067][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.05:075][917]PIE: Server logged in
+[2022.02.11-14.32.05:077][917]PIE: Play in editor total start time 0.215 seconds.
+[2022.02.11-14.32.05:079][917]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.11-14.32.05:079][917]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.11-14.32.05:079][917]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.11-14.32.05:079][917]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.11-14.32.05:079][917]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.11-14.32.05:079][917]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.11-14.32.05:079][917]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.11-14.32.05:079][917]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.11-14.32.05:080][917]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.11-14.32.05:080][917]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.11-14.32.05:086][917]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.11-14.32.05:086][917]LogAudioMixer: Display: 1: FrontRight
+[2022.02.11-14.32.05:113][917]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.02.11-14.32.05:113][917]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.11-14.32.05:113][917]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.11-14.32.05:113][917]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.11-14.32.05:115][917]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.11-14.32.05:129][917]LogInit: FAudioDevice initialized.
+[2022.02.11-14.32.05:174][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.05:175][917]LogNet: Browse: 127.0.0.1:17777/Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-14.32.05:175][917]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.02.11-14.32.05:175][917]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.02.11-14.32.05:176][917]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-14.32.05:176][917]LogNet: Game client on port 17777, rate 10000
+[2022.02.11-14.32.05:179][917]PIE: Client logged in
+[2022.02.11-14.32.05:183][917]PIE: Play in editor total start time 0.321 seconds.
+[2022.02.11-14.32.05:239][917]LogRenderer: Reallocating scene render targets to support 1116x616 Format 9 NumSamples 1 (Frame:1).
+[2022.02.11-14.32.06:216][943]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63377
+[2022.02.11-14.32.06:216][943]LogHandshake: SendConnectChallenge. Timestamp: 1.387675, Cookie: 232193052236183081244248041242178016215230110238203059125008
+[2022.02.11-14.32.06:217][943]LogHandshake: SendChallengeResponse. Timestamp: 1.387675, Cookie: 232193052236183081244248041242178016215230110238203059125008
+[2022.02.11-14.32.06:249][944]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63377
+[2022.02.11-14.32.06:249][944]LogHandshake: SendChallengeAck. InCookie: 232193052236183081244248041242178016215230110238203059125008
+[2022.02.11-14.32.06:249][944]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63377
+[2022.02.11-14.32.06:250][944]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-14.32.06:250][944]LogNet: NotifyAcceptedConnection: Name: MainMap, TimeStamp: 02/11/22 21:32:06, [UNetConnection] RemoteAddr: 127.0.0.1:63377, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-14.32.06:250][944]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63377, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-14.32.06:251][944]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_6, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-14.32.06:285][945]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap.MainMap: Accepted
+[2022.02.11-14.32.06:285][945]LogNet: Remote platform little endian=1
+[2022.02.11-14.32.06:285][945]LogNet: This platform little endian=1
+[2022.02.11-14.32.06:286][945]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.02.11-14.32.06:320][946]LogNet: Login request: ?Name=AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F userId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F platform: NULL
+[2022.02.11-14.32.06:321][946]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap, Game: /Game/ThirdPersonBP/Blueprints/Main/ThirdPersonGM.ThirdPersonGM_C)
+[2022.02.11-14.32.06:321][946]LogLoad: LoadMap: 127.0.0.1:17777/Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap?game=/Game/ThirdPersonBP/Blueprints/Main/ThirdPersonGM.ThirdPersonGM_C
+[2022.02.11-14.32.06:321][946]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2022.02.11-14.32.06:321][946]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.32.06:321][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.32.06:387][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.02.11-14.32.06:406][946]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-14.32.06:406][946]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000172096BBC00), frame # 60946
+[2022.02.11-14.32.06:406][946]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000017207A56840), frame # 60946
+[2022.02.11-14.32.06:422][946]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-21.32.06
+[2022.02.11-14.32.06:422][946]LogWorld: Bringing up level for play took: 0.014973
+[2022.02.11-14.32.06:423][946]LogLoad: Took 0.102335 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap)
+[2022.02.11-14.32.06:423][946]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.02.11-14.32.06:458][947]LogNet: Client netspeed is 10000
+[2022.02.11-14.32.06:458][947]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMap?Name=AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F?SplitscreenCount=1
+[2022.02.11-14.32.06:459][947]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.11-14.32.06:461][947]LogNet: Join succeeded: AndyLesmando-20A4DC7
+[2022.02.11-14.32.07:639][973]Cmd: r.SetRes 640x480w
+[2022.02.11-14.32.07:639][973]r.SetRes = "640x480w"
+[2022.02.11-14.32.07:639][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.08:003][981]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.11-14.32.08:139][984]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2022.02.11-14.32.19:926][241]LogNet: Browse: /Game/ThirdPersonBP/Maps/LobbyMap??listen
+[2022.02.11-14.32.19:926][241]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/LobbyMap??listen
+[2022.02.11-14.32.19:926][241]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MainMap
+[2022.02.11-14.32.19:926][241]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2022.02.11-14.32.19:926][241]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2022.02.11-14.32.19:927][241]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63377, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: ThirdPersonPC_C_1, Owner: ThirdPersonPC_C_1, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F
+[2022.02.11-14.32.19:927][241]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63377, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: ThirdPersonPC_C_1, Owner: ThirdPersonPC_C_1, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F, Channels: 13, Time: 2022.02.11-14.32.19
+[2022.02.11-14.32.19:927][241]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63377, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_5, IsServer: YES, PC: ThirdPersonPC_C_1, Owner: ThirdPersonPC_C_1, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F
+[2022.02.11-14.32.19:927][241]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2022.02.11-14.32.19:928][241]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.32.19:928][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.32.19:987][241]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171E39A02C0), frame # 61241
+[2022.02.11-14.32.19:987][241]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017205B40A00), frame # 61241
+[2022.02.11-14.32.19:992][241]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.02.11-14.32.20:036][241]LogAIModule: Creating AISystem for world LobbyMap
+[2022.02.11-14.32.20:036][241]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171DA8B9A00), frame # 61241
+[2022.02.11-14.32.20:036][241]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001715268E5C0), frame # 61241
+[2022.02.11-14.32.20:037][241]LogLoad: Game class is 'LobbyGM_C'
+[2022.02.11-14.32.20:037][241]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.02.11-14.32.20:037][241]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.02.11-14.32.20:038][241]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.02.11-14.32.20:038][241]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2022.02.11-14.32.20:038][241]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-14.32.20:038][241]LogNet: GameNetDriver IpNetDriver_7 IpNetDriver listening on port 7777
+[2022.02.11-14.32.20:041][241]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap.LobbyMap up for play (max tick rate 0) at 2022.02.11-21.32.20
+[2022.02.11-14.32.20:041][241]LogWorld: Bringing up level for play took: 0.002717
+[2022.02.11-14.32.20:042][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.20:046][241]LogLoad: Took 0.120136 seconds to LoadMap(/Game/ThirdPersonBP/Maps/LobbyMap)
+[2022.02.11-14.32.20:047][241]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = FailureReceived, ErrorString = Host closed the connection., Driver = GameNetDriver IpNetDriver_6
+[2022.02.11-14.32.20:047][241]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2022.02.11-14.32.20:047][241]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2022.02.11-14.32.20:047][241]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: ThirdPersonPC_C_0, Owner: ThirdPersonPC_C_0, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F, Channels: 13, Time: 2022.02.11-14.32.20
+[2022.02.11-14.32.20:047][241]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_6, IsServer: NO, PC: ThirdPersonPC_C_0, Owner: ThirdPersonPC_C_0, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F
+[2022.02.11-14.32.20:047][241]LogNet: Error: UEngine::BroadcastNetworkFailure: FailureType = ConnectionLost, ErrorString = Your connection to the host has been lost., Driver = GameNetDriver IpNetDriver_6
+[2022.02.11-14.32.20:095][242]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMap?closed
+[2022.02.11-14.32.20:095][242]LogNet: Connection failed; returning to Entry
+[2022.02.11-14.32.20:096][242]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMap?closed
+[2022.02.11-14.32.20:096][242]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-14.32.20:096][242]LogNet: World NetDriver shutdown IpNetDriver_6 [GameNetDriver]
+[2022.02.11-14.32.20:096][242]LogNet: DestroyNamedNetDriver IpNetDriver_6 [GameNetDriver]
+[2022.02.11-14.32.20:096][242]LogExit: GameNetDriver IpNetDriver_6 shut down
+[2022.02.11-14.32.20:097][242]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.32.20:097][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.32.20:225][242]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000017207A56840), frame # 61242
+[2022.02.11-14.32.20:225][242]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000172096BBC00), frame # 61242
+[2022.02.11-14.32.20:230][242]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2022.02.11-14.32.20:232][242]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-14.32.20:251][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018552s)
+[2022.02.11-14.32.20:253][242]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-14.32.20:253][242]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000017205AA7E00), frame # 61242
+[2022.02.11-14.32.20:253][242]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171E5A65D00), frame # 61242
+[2022.02.11-14.32.20:254][242]LogPlayLevel: PIE: World Init took: (0.002649s)
+[2022.02.11-14.32.20:254][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMap.MainMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap (0.021564s)
+[2022.02.11-14.32.20:254][242]LogLoad: Game class is 'ThirdPersonGM_C'
+[2022.02.11-14.32.20:276][242]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-21.32.20
+[2022.02.11-14.32.20:276][242]LogWorld: Bringing up level for play took: 0.021208
+[2022.02.11-14.32.20:278][242]Cmd: r.SetRes 640x480w
+[2022.02.11-14.32.20:278][242]r.SetRes = "640x480w"
+[2022.02.11-14.32.20:278][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.20:279][242]LogLoad: Took 0.183389 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap)
+[2022.02.11-14.32.20:338][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.11-14.32.31:288][506]LogOnlineSession: OSS: Join session: traveling to 192.168.100.17:7777
+[2022.02.11-14.32.31:289][506]LogNet: Browse: 192.168.100.17/Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-14.32.31:290][506]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.02.11-14.32.31:290][506]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.02.11-14.32.31:290][506]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-14.32.31:290][506]LogNet: Game client on port 7777, rate 10000
+[2022.02.11-14.32.32:359][532]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.17:63379
+[2022.02.11-14.32.32:359][532]LogHandshake: SendConnectChallenge. Timestamp: 12.486663, Cookie: 234055081117205053133201252032099011070246207172225255151195
+[2022.02.11-14.32.32:360][532]LogHandshake: SendChallengeResponse. Timestamp: 12.486663, Cookie: 234055081117205053133201252032099011070246207172225255151195
+[2022.02.11-14.32.32:401][533]LogNet: NotifyAcceptingConnection accepted from: 192.168.100.17:63379
+[2022.02.11-14.32.32:401][533]LogHandshake: SendChallengeAck. InCookie: 234055081117205053133201252032099011070246207172225255151195
+[2022.02.11-14.32.32:401][533]LogNet: Server accepting post-challenge connection from: 192.168.100.17:63379
+[2022.02.11-14.32.32:402][533]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.02.11-14.32.32:402][533]LogNet: NotifyAcceptedConnection: Name: LobbyMap, TimeStamp: 02/11/22 21:32:32, [UNetConnection] RemoteAddr: 192.168.100.17:63379, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-14.32.32:402][533]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.100.17:63379, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-14.32.32:403][533]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_8, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.02.11-14.32.32:442][534]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap.LobbyMap: Accepted
+[2022.02.11-14.32.32:442][534]LogNet: Remote platform little endian=1
+[2022.02.11-14.32.32:442][534]LogNet: This platform little endian=1
+[2022.02.11-14.32.32:484][535]LogNet: Login request: ?Name=AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F userId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F platform: NULL
+[2022.02.11-14.32.32:485][535]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap, Game: /Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C)
+[2022.02.11-14.32.32:486][535]LogLoad: LoadMap: 192.168.100.17/Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap?game=/Game/ThirdPersonBP/Blueprints/Lobby/LobbyGM.LobbyGM_C
+[2022.02.11-14.32.32:486][535]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-14.32.32:487][535]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.32.32:487][535]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.32.32:551][535]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171E5A65D00), frame # 61535
+[2022.02.11-14.32.32:551][535]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000017205AA7E00), frame # 61535
+[2022.02.11-14.32.32:555][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.02.11-14.32.32:563][535]LogAIModule: Creating AISystem for world LobbyMap
+[2022.02.11-14.32.32:563][535]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001720A0ACA00), frame # 61535
+[2022.02.11-14.32.32:563][535]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171DF2525C0), frame # 61535
+[2022.02.11-14.32.32:567][535]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_LobbyMap.LobbyMap up for play (max tick rate 0) at 2022.02.11-21.32.32
+[2022.02.11-14.32.32:567][535]LogWorld: Bringing up level for play took: 0.002037
+[2022.02.11-14.32.32:568][535]LogLoad: Took 0.082453 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap)
+[2022.02.11-14.32.32:568][535]LogNavigation: Warning: NavData RegistrationFailed_DataPendingKill.
+[2022.02.11-14.32.32:602][536]LogNet: Client netspeed is 10000
+[2022.02.11-14.32.32:602][536]LogNet: Join request: /Game/ThirdPersonBP/Maps/MainMap?Name=AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F?SplitscreenCount=1
+[2022.02.11-14.32.32:605][536]LogNet: Join succeeded: AndyLesmando-20A4DC7
+[2022.02.11-14.32.32:607][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.42:122][758]LogBlueprintUserMessages: [LobbyWgt_C_0] Client 0: lobby WGT ->Destroy Session Success
+[2022.02.11-14.32.42:122][758]LogBlueprintUserMessages: [LobbyWgt_C_0] Client 0: lobby WGT ->Open level = MainMap
+[2022.02.11-14.32.43:130][781]LogNet: Browse: /Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-14.32.43:130][781]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/MainMap
+[2022.02.11-14.32.43:130][781]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_LobbyMap
+[2022.02.11-14.32.43:130][781]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2022.02.11-14.32.43:130][781]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2022.02.11-14.32.43:131][781]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F, Channels: 10, Time: 2022.02.11-14.32.43
+[2022.02.11-14.32.43:131][781]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_8, IsServer: NO, PC: LobbyPC_C_0, Owner: LobbyPC_C_0, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F
+[2022.02.11-14.32.43:131][781]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2022.02.11-14.32.43:132][781]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.32.43:132][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.32.43:210][781]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171DF2525C0), frame # 61781
+[2022.02.11-14.32.43:210][781]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001720A0ACA00), frame # 61781
+[2022.02.11-14.32.43:213][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.02.11-14.32.43:216][781]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-14.32.43:228][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012129s)
+[2022.02.11-14.32.43:230][781]LogAIModule: Creating AISystem for world MainMap
+[2022.02.11-14.32.43:230][781]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000171E086D800), frame # 61781
+[2022.02.11-14.32.43:230][781]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000171E5710A40), frame # 61781
+[2022.02.11-14.32.43:230][781]LogPlayLevel: PIE: World Init took: (0.001991s)
+[2022.02.11-14.32.43:230][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MainMap.MainMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap (0.014323s)
+[2022.02.11-14.32.43:230][781]LogLoad: Game class is 'ThirdPersonGM_C'
+[2022.02.11-14.32.43:255][781]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap.MainMap up for play (max tick rate 0) at 2022.02.11-21.32.43
+[2022.02.11-14.32.43:256][781]LogWorld: Bringing up level for play took: 0.024754
+[2022.02.11-14.32.43:257][781]Cmd: r.SetRes 640x480w
+[2022.02.11-14.32.43:257][781]r.SetRes = "640x480w"
+[2022.02.11-14.32.43:257][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.32.43:258][781]LogLoad: Took 0.127903 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap)
+[2022.02.11-14.32.43:293][782]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2022.02.11-14.32.43:293][782]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:63379, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F
+[2022.02.11-14.32.43:293][782]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.100.17:63379, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F, Channels: 10, Time: 2022.02.11-14.32.43
+[2022.02.11-14.32.43:293][782]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.100.17:63379, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_7, IsServer: YES, PC: LobbyPC_C_1, Owner: LobbyPC_C_1, UniqueId: NULL:AndyLesmando-20A4DC7D440732B8AEA32EB6918CCB6F
+[2022.02.11-14.33.19:960][673]Cmd: servertravel /Game/ThirdPersonBP/Maps/GameplayMap
+[2022.02.11-14.33.19:968][673]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2022.02.11-14.33.23:932][772]Cmd: servertravel /Game/ThirdPersonBP/Maps/GameplayMap
+[2022.02.11-14.33.23:932][772]LogGameMode: Warning: CanServerTravel: Seamless travel currently NOT supported in single process PIE.
+[2022.02.11-14.33.25:691][816]LogSlate: Window 'TestSessionNull Preview [NetMode: Server] (64-bit/Windows) ' being destroyed
+[2022.02.11-14.33.25:763][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.11-14.33.25:763][816]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_1_MainMap
+[2022.02.11-14.33.25:763][816]LogSlate: Window 'TestSessionNull Preview [NetMode: Client 2] (64-bit/Windows) ' being destroyed
+[2022.02.11-14.33.25:770][816]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.33.25:770][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.33.25:780][816]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_LobbyMap
+[2022.02.11-14.33.25:780][816]LogWorld: UWorld::CleanupWorld for LobbyMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.11-14.33.25:781][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.33.25:789][816]LogNet: World NetDriver shutdown IpNetDriver_7 [GameNetDriver]
+[2022.02.11-14.33.25:789][816]LogNet: DestroyNamedNetDriver IpNetDriver_7 [GameNetDriver]
+[2022.02.11-14.33.25:789][816]LogExit: GameNetDriver IpNetDriver_7 shut down
+[2022.02.11-14.33.25:790][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.11-14.33.25:797][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.11-14.33.25:927][816]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001715268E5C0), frame # 62816
+[2022.02.11-14.33.25:928][816]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171DA8B9A00), frame # 62816
+[2022.02.11-14.33.25:928][816]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000171E5710A40), frame # 62816
+[2022.02.11-14.33.25:928][816]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000171E086D800), frame # 62816
+[2022.02.11-14.33.25:933][816]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2022.02.11-14.33.25:981][817]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.11-14.33.25:981][817]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.02.11-14.33.28:897][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Main/FindGameWgt" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset" SILENT=true
+[2022.02.11-14.33.28:941][947]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/FindGameWgt331FEB684E28C4E5017F96936F67817F.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Blueprints/Main/FindGameWgt.uasset'
+[2022.02.11-14.33.28:955][947]AssetCheck: New page: Asset Save: FindGameWgt
+[2022.02.11-14.33.28:955][947]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/Main/FindGameWgt.FindGameWgt
+[2022.02.11-14.33.32:165][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.02.11-14.33.33:495][153]LogSlate: Window 'Save Content' being destroyed
+[2022.02.11-14.33.33:524][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainMap" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.11-14.33.33:581][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.11-14.33.33:646][153]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/MainMapB0E291E54741AE3920FEE5948B7F1F94.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Maps/MainMap.umap'
+[2022.02.11-14.33.33:669][153]LogFileHelpers: Saving map 'MainMap' took 0.145
+[2022.02.11-14.33.33:669][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainMap_BuiltData" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.02.11-14.33.33:958][153]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/MainMap_BuiltData60BBE8F348B6EE5AFAE473903010F72C.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Maps/MainMap_BuiltData.uasset'
+[2022.02.11-14.33.33:960][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainMap_BuiltData" FILE="E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2022.02.11-14.33.34:240][153]LogSavePackage: Moving 'E:/UE4 PROJECT/TestSessionNull/Saved/MainMap_BuiltData2B22802845ACE5688847C7BD6794E1FA.tmp' to 'E:/UE4 PROJECT/TestSessionNull/Content/ThirdPersonBP/Maps/MainMap_BuiltData.uasset'
+[2022.02.11-14.33.34:291][154]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.11-14.33.34:291][154]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MainMap.MainMap
+[2022.02.11-14.33.34:291][154]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2022.02.11-14.34.49:334][257]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2022.02.11-14.36.10:800][756]LogTemp: Repeating last play command: Standalone Game
+[2022.02.11-14.36.10:888][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAC620F-473D-375E-0FF4-EAA1B4EB0B1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=f764a99e49c12f7761bd63a035dc00fa%7Cb797724c845347079e9df1ca68b50c0a%7Cde627bd2-8e5b-4516-b31a-3147b2097689&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: request failed, libcurl error: 0 (No error)
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1716ed57f70 [can pipeline])
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 1 (Re-using existing connection! (#20) with host datarouter.ol.epicgames.com)
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.196.235.34) port 443 (#20))
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.02.11-14.37.07:918][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.02.11-14.37.07:919][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.02.11-14.37.07:919][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 7 (Closing connection 20)
+[2022.02.11-14.37.07:919][265]LogHttp: Warning: 00000171E4F2D600: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.02.11-14.37.08:309][266]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DAC620F-473D-375E-0FF4-EAA1B4EB0B1E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=f764a99e49c12f7761bd63a035dc00fa%7Cb797724c845347079e9df1ca68b50c0a%7Cde627bd2-8e5b-4516-b31a-3147b2097689&AppEnvironment=datacollector-source&UploadType=eteventstream
